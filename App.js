@@ -27,19 +27,15 @@ const App = () => {
         break;
       case 2:
         setUri(DiceTwo);
-
         break;
       case 3:
         setUri(DiceThree);
-
         break;
       case 4:
         setUri(DiceFour);
-
         break;
       case 5:
         setUri(DiceFive);
-
         break;
       case 6:
         setUri(DiceSix);
